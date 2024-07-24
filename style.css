@@ -1,0 +1,22 @@
+input[type="submit"]{
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: #45a049;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+th{
+    background-color: #4CAF50;
+    color: white;
+}
